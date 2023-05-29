@@ -20,5 +20,5 @@ To understand why, I explored the conversion rates of house ads by different seg
 
 Also, from background information, the email campaign was conducted as a test to know whether sending personalised messages to customers is a good marketing strategy or not. Using the lift, t-statistic and p values, I showed how the campaign performed for different age demographics and languages.
 
-The A/B Test showed that the Email campaign produced effective results for the younger age group and for English and Spanish speakers.
+The A/B Test showed that the Email strategy of sending personalized messages to customers produced effective results for the younger age group and for English and Spanish speakers.
 
